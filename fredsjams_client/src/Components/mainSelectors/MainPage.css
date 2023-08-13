@@ -4,6 +4,8 @@
   justify-content: space-around;
   max-width: 90vw;
   padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .grid-item img {
   height: 300px;

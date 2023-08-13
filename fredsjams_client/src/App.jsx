@@ -1,16 +1,30 @@
 import './App.css'
-import MainPage  from './Components/mainSelectors/mainSelector.jsx'
-function App() {
+import "bootstrap/dist/css/bootstrap.min.css";
+import {
+  Route,
+  createBrowserRouter,
+  createRoutesFromElements,
+  RouterProvider,
+} from "react-router-dom";
 
+import MainPage from "./Components/mainSelectors/MainPage.jsx";
 
-  return (
+const router = createBrowserRouter(
+  createRoutesFromElements(
     <>
-     
-      <MainPage/>
+      <Route exact path="/fredsjams_client_v2/" element={<MainPage />} />
 
-     
+      {/* <Route path="music-reviews" element={<MusicReviews />} />
+      <Route path="gear-reviews" element={<GearReviews />} /> */}
     </>
   )
+);
+function App({ routes }) {
+  return (
+    <>
+      <RouterProvider router={router} />
+    </>
+  );
 }
 
 export default App

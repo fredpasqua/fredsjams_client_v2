@@ -1,0 +1,13 @@
+/* Modify the background color */
+         
+.navbar-custom {
+    background-color: rgb(0, 0, 0) !important;
+}
+
+
+
+.logo img {
+    height: 50px;
+    background-color: "black";
+
+}
