@@ -18,6 +18,7 @@
   }
   .grid-item img:hover {
     transition: 500ms;
+    border: 1px white solid;
 
     opacity: 1;
   }
