@@ -1,31 +1,22 @@
 .grid-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    max-width: 90vw;
-  
-  
-  
-
-
-    
-    padding: 10px;
-  }
-  .grid-item img{
-    height: 300px;
-    border-radius:10%;
-    opacity: .9;
-  }
-  .grid-item img:hover {
-    transition: 500ms;
-    border: 1px white solid;
-
-    opacity: 1;
-  }
-  .grid-item {
-    margin: 10px;
-    height: 300px;
-    width: 300px;
-    border-radius: 10px;
- 
-  }
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  max-width: 90vw;
+  padding: 10px;
+}
+.grid-item img {
+  height: 300px;
+  border-radius: 10%;
+  opacity: 0.8;
+}
+.grid-item img:hover {
+  transition: 250ms;
+  opacity: 1;
+}
+.grid-item {
+  margin: 10px;
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+}
