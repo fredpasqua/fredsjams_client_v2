@@ -5,6 +5,7 @@ import reviewHero from "../../assets/ReviewsHero.jpg";
 import musicReviewsHero from "../../assets/MusicReviewsHero.jpg";
 import newsHero from "../../assets/NewsHero.jpg";
 import blogHero from "../../assets/BlogHero.jpg";
+import { Link } from "react-router-dom";
 function MainPage() {
   return (
     <>
@@ -15,7 +16,9 @@ function MainPage() {
         </div>
 
         <div className="grid-item">
-          <img src={musicReviewsHero} alt="Music Reviews Hero" />
+          <Link to="/Music-Reviews">
+            <img src={musicReviewsHero} alt="Music Reviews Hero" />
+          </Link>
         </div>
         <div className="grid-item">
           {" "}
