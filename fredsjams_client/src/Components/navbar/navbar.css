@@ -2,9 +2,12 @@
          
 
 .logo img {
-    height: 50px;
+    height: 45px;
+    
 }
-
+.navbar-brand {
+  margin-left: 10px;
+}
 .nav-link  {
     color: white !important;
     text-decoration: none;

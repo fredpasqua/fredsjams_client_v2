@@ -1,8 +1,8 @@
 import MusicReview from "../../Components/MusicReviewsComp/MusicReview";
 import data from "../../assets/data.json";
+import "./MusicReviews.css";
 
 function Reviews() {
-  console.log(data);
   return (
     <>
       <div>
