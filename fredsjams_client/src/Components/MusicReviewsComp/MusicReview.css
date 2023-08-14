@@ -1,0 +1,36 @@
+.reviewContainer {
+    display: flex;
+    padding: 10px;
+    
+    margin-right:auto;
+    margin-left: auto;
+    border: 1px white solid;
+    width: 80vw;
+    min-height: 400px; 
+    max-height: 600px;
+
+}
+.image {
+    height: 200px;
+
+}
+.title {
+    color: white;
+}
+.item-info-container {
+
+border: 1px red solid;
+height: 200px;
+}
+.title-description-container {
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    flex-direction: column;
+    text-align: justify;
+    padding: 10px;
+    padding-top: 0px;
+    overflow: scroll;
+    
+}
