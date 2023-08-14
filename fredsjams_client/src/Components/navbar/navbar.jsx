@@ -29,12 +29,25 @@ function Navigation() {
             navbarScroll
           >
             <NavDropdown title="Menu" id="navbarScrollingDropdown">
-              <NavDropdown.Item href="#action3">Gear Reviews</NavDropdown.Item>
-              <NavDropdown.Item href="#action4">Music Reviews</NavDropdown.Item>
+              <NavDropdown.Item>
+                <Link to="/Gear-Reviews">Gear Reviews</Link>
+              </NavDropdown.Item>
 
-              <NavDropdown.Item href="#action5">Notes</NavDropdown.Item>
-              <NavDropdown.Item href="#action5">News</NavDropdown.Item>
-              <NavDropdown.Item href="#action5">About</NavDropdown.Item>
+              <NavDropdown.Item>
+                <Link to="/Music-Reviews">Music Reviews</Link>
+              </NavDropdown.Item>
+
+              <NavDropdown.Item>
+                <Link to="/Notes">Notes</Link>
+              </NavDropdown.Item>
+              <NavDropdown.Item>
+                {" "}
+                <Link to="/News">News</Link>
+              </NavDropdown.Item>
+              <NavDropdown.Item>
+                {" "}
+                <Link to="/About">About</Link>
+              </NavDropdown.Item>
             </NavDropdown>
           </Nav>
           <Form className="d-flex">
