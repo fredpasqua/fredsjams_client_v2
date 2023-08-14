@@ -1,64 +1,41 @@
-import "./navbar.css";
-import Button from "react-bootstrap/Button";
 import Container from "react-bootstrap/Container";
-import Form from "react-bootstrap/Form";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
-import NavDropdown from "react-bootstrap/NavDropdown";
 import { Link } from "react-router-dom";
 import fredsjams from "../../assets/fredsjams.png";
+import "./navbar.css";
 function Navigation() {
   return (
-    <Navbar
-      collapseOnSelect
-      expand="lg"
-      className="navbar-custom"
-      data-bs-theme="dark"
-    >
-      <Container fluid>
+    <Navbar expand="lg" className="bg-body-tertiary">
+      <Container>
         <Navbar.Brand>
-          <Link className="logo" to="/fredsjams_client_v2/">
+          <Link to="/fredsjams_client_v2/" className="logo">
             <img src={fredsjams} alt="logo"></img>
           </Link>
         </Navbar.Brand>
-        <Navbar.Toggle aria-controls="navbarScroll" />
-        <Navbar.Collapse id="navbarScroll">
-          <Nav
-            className="me-auto my-2 my-lg-0"
-            style={{ maxHeight: "100px" }}
-            navbarScroll
-          >
-            <NavDropdown title="Menu" id="navbarScrollingDropdown">
-              <NavDropdown.Item>
-                <Link to="/Gear-Reviews">Gear Reviews</Link>
-              </NavDropdown.Item>
+        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+        <Navbar.Collapse id="basic-navbar-nav">
+          <Nav className="me-auto">
+            <Nav.Link>
+              <Link to="/Gear-Reviews">Gear Reviews</Link>
+            </Nav.Link>
 
-              <NavDropdown.Item>
-                <Link to="/Music-Reviews">Music Reviews</Link>
-              </NavDropdown.Item>
+            <Nav.Link>
+              <Link to="/Music-Reviews">Music Reviews</Link>
+            </Nav.Link>
 
-              <NavDropdown.Item>
-                <Link to="/Notes">Notes</Link>
-              </NavDropdown.Item>
-              <NavDropdown.Item>
-                {" "}
-                <Link to="/News">News</Link>
-              </NavDropdown.Item>
-              <NavDropdown.Item>
-                {" "}
-                <Link to="/About">About</Link>
-              </NavDropdown.Item>
-            </NavDropdown>
+            <Nav.Link>
+              <Link to="/Notes">Notes</Link>
+            </Nav.Link>
+            <Nav.Link>
+              {" "}
+              <Link to="/News">News</Link>
+            </Nav.Link>
+            <Nav.Link>
+              {" "}
+              <Link to="/About">About</Link>
+            </Nav.Link>
           </Nav>
-          <Form className="d-flex">
-            <Form.Control
-              type="search"
-              placeholder="Search"
-              className="me-2"
-              aria-label="Search"
-            />
-            <Button variant="outline-success">Search</Button>
-          </Form>
         </Navbar.Collapse>
       </Container>
     </Navbar>
