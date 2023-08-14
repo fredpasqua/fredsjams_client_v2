@@ -9,10 +9,12 @@ import { Link } from "react-router-dom";
 function MainPage() {
   return (
     <>
-      <Navigate />
+      {/* <Navigate /> */}
       <div className="grid-container">
         <div className="grid-item">
-          <img src={reviewHero} alt="Gear Reviews Hero" />
+          <Link to="/Gear-Reviews">
+            <img src={reviewHero} alt="Gear Reviews Hero" />
+          </Link>
         </div>
 
         <div className="grid-item">
@@ -29,7 +31,7 @@ function MainPage() {
           <img alt="News Hero" src={newsHero} />
         </div>
       </div>
-      <Footer />
+      {/* // <Footer /> */}
     </>
   );
 }

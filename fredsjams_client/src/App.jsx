@@ -1,28 +1,24 @@
 import './App.css'
 import "bootstrap/dist/css/bootstrap.min.css";
-import {
-  Route,
-  createBrowserRouter,
-  createRoutesFromElements,
-  RouterProvider,
-} from "react-router-dom";
-
+import { Route, Routes, BrowserRouter } from "react-router-dom";
+import Footer from "./Components/footer/footer.jsx";
+import Navigate from "./Components/navbar/navbar.jsx";
 import MainPage from "./Components/mainSelectors/MainPage.jsx";
 import MusicReviews from "./Pages/MusicReviews.jsx";
-const router = createBrowserRouter(
-  createRoutesFromElements(
-    <>
-      <Route exact path="/fredsjams_client_v2/" element={<MainPage />} />
-      <Route path="/Music-Reviews/" element={<MusicReviews />} />
-      {/* <Route path="music-reviews" element={<MusicReviews />} />
-      <Route path="gear-reviews" element={<GearReviews />} /> */}
-    </>
-  )
-);
-function App({ routes }) {
+import GearReviews from "./Pages/gearReviews/GearReviews.jsx";
+
+function App() {
   return (
     <>
-      <RouterProvider router={router} />
+      <BrowserRouter>
+        <Navigate />
+        <Routes>
+          <Route exact path="/fredsjams_client_v2/" element={<MainPage />} />
+          <Route path="/Music-Reviews/" element={<MusicReviews />} />
+          <Route path="/Gear-Reviews/" element={<GearReviews />} />
+        </Routes>
+        <Footer />
+      </BrowserRouter>
     </>
   );
 }
