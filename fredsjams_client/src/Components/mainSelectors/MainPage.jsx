@@ -1,6 +1,5 @@
 import "./MainPage.css";
-import Footer from "../footer/footer";
-import Navigate from "../navbar/navbar.jsx";
+
 import reviewHero from "../../assets/ReviewsHero.jpg";
 import musicReviewsHero from "../../assets/MusicReviewsHero.jpg";
 import newsHero from "../../assets/NewsHero.jpg";
