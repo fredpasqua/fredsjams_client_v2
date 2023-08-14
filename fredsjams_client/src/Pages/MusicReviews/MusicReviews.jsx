@@ -12,13 +12,7 @@ function Reviews() {
             key={item.Album}
             title={item.Album}
             description={`
-          The swirling atmospherics of the opening Singing Winds Crying Beats merge seamlessly into the languid Black Magic Woman the combustible Gypsy Queen and the vibrant Oye Como Va to produce a continuous 15-minute suite that portrays the band’s broad emotional range. 
-
-          There are also the complex, jazz-influenced Incident At Neshabur, more percussion pyrotechnics on Se A Cabo, and the sublime instrumental Samba Pa Ti, which has become Carlos’s signature tune.
-          
-          "I felt Santana had a very dynamic range," Metallica's Rob Trujillo told us. "He’d bring in heavy guitars for the riff to get everyone excited, and with the use of percussion there was this indigenous quality to the beat, the rhythm, the flow of the music he was producing - not to mention all those nice, beautiful instrumental moments.
-          
-          “The album cover was really fascinating too. His artwork was psychedelic and trippy with beautiful women in it that made you look and go ‘wow’. There were many emotions stirred with that record."`}
+          This area is for the review by a music critical listener.  You can submit your own review`}
             artist={item.Artist}
             releasedOn={"Columbia House Records"}
             releaseYear={item.ReleaseYear}
