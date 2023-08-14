@@ -7,7 +7,8 @@
       "Rating": 9.5,
       "Genre": "Hard Rock",
       "Style": "Blues Rock, Folk Rock",
-      "Format": "Vinyl, CD, Digital"
+      "Format": "Vinyl, CD, Digital", 
+      "ImageUrl": "https://m.media-amazon.com/images/I/81evsr3Oq0L._SL1425_.jpg"
     },
     {
       "Artist": "Pink Floyd",
@@ -17,7 +18,8 @@
       "Rating": 9.8,
       "Genre": "Progressive Rock",
       "Style": "Art Rock",
-      "Format": "Vinyl, CD, Digital"
+      "Format": "Vinyl, CD, Digital",
+      "ImageUrl": "https://m.media-amazon.com/images/I/51lsZBhvHRL._SL1500_.jpg"
     },
     {
       "Artist": "The Rolling Stones",
@@ -27,7 +29,9 @@
       "Rating": 9.2,
       "Genre": "Rock",
       "Style": "Blues Rock",
-      "Format": "Vinyl, CD, Digital"
+      "Format": "Vinyl, CD, Digital", 
+      "ImageUrl": "https://m.media-amazon.com/images/I/71BKDc1-DWL._SL1200_.jpg"
+    
     },
     {
       "Artist": "David Bowie",
@@ -37,7 +41,8 @@
       "Rating": 9.7,
       "Genre": "Glam Rock",
       "Style": "Art Rock",
-      "Format": "Vinyl, CD, Digital"
+      "Format": "Vinyl, CD, Digital", 
+      "ImageUrl": "https://m.media-amazon.com/images/I/61PclIVNyeL._SL1000_.jpg"
     },
     {
       "Artist": "Fleetwood Mac",
@@ -47,7 +52,8 @@
       "Rating": 9.6,
       "Genre": "Rock",
       "Style": "Soft Rock",
-      "Format": "Vinyl, CD, Digital"
+      "Format": "Vinyl, CD, Digital",
+      "ImageUrl": "https://m.media-amazon.com/images/I/41ze6HPr38L.jpg"
     },
     {
       "Artist": "The Who",
@@ -57,7 +63,8 @@
       "Rating": 9.4,
       "Genre": "Rock",
       "Style": "Hard Rock",
-      "Format": "Vinyl, CD, Digital"
+      "Format": "Vinyl, CD, Digital", 
+      "ImageUrl": "https://m.media-amazon.com/images/I/81Rd+1mlPZL._SL1400_.jpg"
     },
     {
       "Artist": "Queen",
@@ -67,7 +74,9 @@
       "Rating": 9.6,
       "Genre": "Rock",
       "Style": "Progressive Rock",
-      "Format": "Vinyl, CD, Digital"
+      "Format": "Vinyl, CD, Digital", 
+      "ImageUrl": "https://m.media-amazon.com/images/I/71tMvc0xDPL._SL1500_.jpg"
+      
     },
     {
       "Artist": "Elton John",
@@ -77,7 +86,9 @@
       "Rating": 9.3,
       "Genre": "Rock",
       "Style": "Pop Rock",
-      "Format": "Vinyl, CD, Digital"
+      "Format": "Vinyl, CD, Digital",
+      "ImageUrl": "https://m.media-amazon.com/images/I/51vF0neNCLL.jpg"
+    
     },
     {
       "Artist": "Bob Marley & The Wailers",
@@ -87,7 +98,8 @@
       "Rating": 9.7,
       "Genre": "Reggae",
       "Style": "Roots Reggae",
-      "Format": "Vinyl, CD, Digital"
+      "Format": "Vinyl, CD, Digital", 
+      "ImageUrl": "https://m.media-amazon.com/images/I/311VqJjpe-L.jpg"
     },
     {
       "Artist": "The Eagles",
@@ -97,6 +109,7 @@
       "Rating": 9.5,
       "Genre": "Rock",
       "Style": "Country Rock",
-      "Format": "Vinyl, CD, Digital"
+      "Format": "Vinyl, CD, Digital", 
+      "ImageUrl": "https://m.media-amazon.com/images/I/71-vzFj7XYL._SL1425_.jpg"
     }
   ]

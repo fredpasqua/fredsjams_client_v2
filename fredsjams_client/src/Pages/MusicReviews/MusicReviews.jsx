@@ -19,9 +19,6 @@ function Reviews() {
           "I felt Santana had a very dynamic range," Metallica's Rob Trujillo told us. "He’d bring in heavy guitars for the riff to get everyone excited, and with the use of percussion there was this indigenous quality to the beat, the rhythm, the flow of the music he was producing - not to mention all those nice, beautiful instrumental moments.
           
           “The album cover was really fascinating too. His artwork was psychedelic and trippy with beautiful women in it that made you look and go ‘wow’. There were many emotions stirred with that record."`}
-            image={
-              "https://m.media-amazon.com/images/I/91eRdbn09dL._SL1500_.jpg"
-            }
             artist={item.Artist}
             releasedOn={"Columbia House Records"}
             releaseYear={item.ReleaseYear}
@@ -29,6 +26,7 @@ function Reviews() {
             genre={item.Genre}
             style={item.Style}
             format={item.Format}
+            image={item.ImageUrl}
           />
         ))}
         <MusicReview
