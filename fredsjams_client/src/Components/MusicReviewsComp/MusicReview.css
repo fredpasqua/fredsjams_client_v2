@@ -32,18 +32,20 @@
 
 margin-top: 20px;
 /* border: 1px white solid; */
-height: 150px;
+height: auto;
 min-width: 300px;
 color: white;
 
 width: 200px;}
 .title-description-container {
-    color: grey;
-  
-
-
-
-    
+    color: rgb(181, 181, 181);
+    text-align: justify;
+    padding: 10px;
+}
+.date {
+    text-align: left;
+    color: white;
+    font-size: medium;
 }
 .item-info-container ul {
     list-style-type:none;

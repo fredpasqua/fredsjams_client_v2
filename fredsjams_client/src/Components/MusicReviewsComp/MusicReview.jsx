@@ -31,6 +31,8 @@ function MusicReview(props) {
 
         <div className="title-description-container">
           <hr></hr>
+          <h3 className="date">Posted: June 1, 2023</h3>
+          <h3 className="date">Reviewer: Staff Reviewer</h3>
           <p> {shortDescription}</p>
         </div>
       </div>
