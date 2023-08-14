@@ -7,10 +7,11 @@ function Reviews() {
     <>
       <div>
         <h1>Music Reviews, LPs, CDs, Streaming and More...</h1>
-        info.map((x) =>
-        <MusicReview
-          title={data.Album}
-          description={`
+        {data.map((item) => (
+          <MusicReview
+            key={item.Album}
+            title={item.Album}
+            description={`
           The swirling atmospherics of the opening Singing Winds Crying Beats merge seamlessly into the languid Black Magic Woman the combustible Gypsy Queen and the vibrant Oye Como Va to produce a continuous 15-minute suite that portrays the band’s broad emotional range. 
 
           There are also the complex, jazz-influenced Incident At Neshabur, more percussion pyrotechnics on Se A Cabo, and the sublime instrumental Samba Pa Ti, which has become Carlos’s signature tune.
@@ -18,13 +19,18 @@ function Reviews() {
           "I felt Santana had a very dynamic range," Metallica's Rob Trujillo told us. "He’d bring in heavy guitars for the riff to get everyone excited, and with the use of percussion there was this indigenous quality to the beat, the rhythm, the flow of the music he was producing - not to mention all those nice, beautiful instrumental moments.
           
           “The album cover was really fascinating too. His artwork was psychedelic and trippy with beautiful women in it that made you look and go ‘wow’. There were many emotions stirred with that record."`}
-          image={"https://m.media-amazon.com/images/I/91eRdbn09dL._SL1500_.jpg"}
-          artist={data.Artist}
-          releasedOn={"Columbia House Records"}
-          releaseYear={data.ReleasedYear}
-          rating={`4 Star! - Need to build this!`}
-        />
-        )
+            image={
+              "https://m.media-amazon.com/images/I/91eRdbn09dL._SL1500_.jpg"
+            }
+            artist={item.Artist}
+            releasedOn={"Columbia House Records"}
+            releaseYear={item.ReleaseYear}
+            rating={item.Rating}
+            genre={item.Genre}
+            style={item.Style}
+            format={item.Format}
+          />
+        ))}
         <MusicReview
           title={"Abraxas"}
           description={`

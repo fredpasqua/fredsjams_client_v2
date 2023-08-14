@@ -8,6 +8,9 @@ function MusicReview(props) {
   const Artist = props.artist;
   const Rating = props.rating;
   const releaseYear = props.releaseYear;
+  const genre = props.genre;
+  const style = props.style;
+  const format = props.format;
   console.log(image);
   return (
     <div>
@@ -20,11 +23,11 @@ function MusicReview(props) {
             <ul className="info-list">
               <h2>{Artist}</h2>
               <li>Release Year: {releaseYear}</li>
-              <li>Released On: {releasedOn}</li>
+              <li>Label: {releasedOn}</li>
               <li>Rating: {Rating} </li>
-              <li>Genre:</li>
-              <li>Style:</li>
-              <li>Format:</li>
+              <li>Genre: {genre}</li>
+              <li>Style: {style}</li>
+              <li>Format: {format}</li>
             </ul>
           </div>
         </div>
