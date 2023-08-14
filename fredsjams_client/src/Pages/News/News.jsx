@@ -1,5 +1,5 @@
 function News() {
-  return <div>Notes</div>;
+  return <div>NEWS</div>;
 }
 
 export default News;

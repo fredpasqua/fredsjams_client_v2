@@ -24,11 +24,15 @@ function MainPage() {
         </div>
         <div className="grid-item">
           {" "}
-          <img src={blogHero} alt="Blog Hero" />
+          <Link to="/Notes">
+            <img src={blogHero} alt="Blog Hero" />
+          </Link>
         </div>
         <div className="grid-item">
           {" "}
-          <img alt="News Hero" src={newsHero} />
+          <Link to="/News">
+            <img alt="News Hero" src={newsHero} />
+          </Link>
         </div>
       </div>
       {/* // <Footer /> */}
