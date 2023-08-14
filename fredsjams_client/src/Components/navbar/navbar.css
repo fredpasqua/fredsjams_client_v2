@@ -19,3 +19,10 @@
     text-decoration: none;
 
 }
+.navbar-toggler {
+    color: white !important;
+    
+}
+.navbar-toggler-icon {
+    color: white !important;
+}
