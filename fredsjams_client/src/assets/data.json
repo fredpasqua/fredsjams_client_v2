@@ -1,0 +1,102 @@
+[
+    {
+      "Artist": "Led Zeppelin",
+      "Album": "Led Zeppelin IV",
+      "ReleaseYear": 1971,
+      "ReleasedOn": "November 8, 1971",
+      "Rating": 9.5,
+      "Genre": "Hard Rock",
+      "Style": "Blues Rock, Folk Rock",
+      "Format": "Vinyl, CD, Digital"
+    },
+    {
+      "Artist": "Pink Floyd",
+      "Album": "The Dark Side of the Moon",
+      "ReleaseYear": 1973,
+      "ReleasedOn": "March 1, 1973",
+      "Rating": 9.8,
+      "Genre": "Progressive Rock",
+      "Style": "Art Rock",
+      "Format": "Vinyl, CD, Digital"
+    },
+    {
+      "Artist": "The Rolling Stones",
+      "Album": "Exile on Main St.",
+      "ReleaseYear": 1972,
+      "ReleasedOn": "May 12, 1972",
+      "Rating": 9.2,
+      "Genre": "Rock",
+      "Style": "Blues Rock",
+      "Format": "Vinyl, CD, Digital"
+    },
+    {
+      "Artist": "David Bowie",
+      "Album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+      "ReleaseYear": 1972,
+      "ReleasedOn": "June 16, 1972",
+      "Rating": 9.7,
+      "Genre": "Glam Rock",
+      "Style": "Art Rock",
+      "Format": "Vinyl, CD, Digital"
+    },
+    {
+      "Artist": "Fleetwood Mac",
+      "Album": "Rumours",
+      "ReleaseYear": 1977,
+      "ReleasedOn": "February 4, 1977",
+      "Rating": 9.6,
+      "Genre": "Rock",
+      "Style": "Soft Rock",
+      "Format": "Vinyl, CD, Digital"
+    },
+    {
+      "Artist": "The Who",
+      "Album": "Who's Next",
+      "ReleaseYear": 1971,
+      "ReleasedOn": "August 14, 1971",
+      "Rating": 9.4,
+      "Genre": "Rock",
+      "Style": "Hard Rock",
+      "Format": "Vinyl, CD, Digital"
+    },
+    {
+      "Artist": "Queen",
+      "Album": "A Night at the Opera",
+      "ReleaseYear": 1975,
+      "ReleasedOn": "November 21, 1975",
+      "Rating": 9.6,
+      "Genre": "Rock",
+      "Style": "Progressive Rock",
+      "Format": "Vinyl, CD, Digital"
+    },
+    {
+      "Artist": "Elton John",
+      "Album": "Goodbye Yellow Brick Road",
+      "ReleaseYear": 1973,
+      "ReleasedOn": "October 5, 1973",
+      "Rating": 9.3,
+      "Genre": "Rock",
+      "Style": "Pop Rock",
+      "Format": "Vinyl, CD, Digital"
+    },
+    {
+      "Artist": "Bob Marley & The Wailers",
+      "Album": "Exodus",
+      "ReleaseYear": 1977,
+      "ReleasedOn": "June 3, 1977",
+      "Rating": 9.7,
+      "Genre": "Reggae",
+      "Style": "Roots Reggae",
+      "Format": "Vinyl, CD, Digital"
+    },
+    {
+      "Artist": "The Eagles",
+      "Album": "Hotel California",
+      "ReleaseYear": 1976,
+      "ReleasedOn": "December 8, 1976",
+      "Rating": 9.5,
+      "Genre": "Rock",
+      "Style": "Country Rock",
+      "Format": "Vinyl, CD, Digital"
+    }
+  ]
