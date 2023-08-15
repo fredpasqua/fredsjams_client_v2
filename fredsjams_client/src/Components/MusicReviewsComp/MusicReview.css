@@ -8,8 +8,9 @@
     grid-template-rows: 1fr;
     margin-right:auto;
     margin-left: auto;
-    border: 1px white solid;
-    width: 80vw;
+    border: 1px rgb(148, 148, 148) solid;
+    width: 95vw;
+    max-width: 800px;
     min-height: 500px; 
 }
 .image-container {
