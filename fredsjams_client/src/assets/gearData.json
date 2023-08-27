@@ -7,7 +7,7 @@
     "DriveMethod": "Direct Drive",
     "Speeds": "33 1/3, 45, 78 RPM",
     "Features": "USB Output, Built-in Preamp, High-Torque Motor",
-    "ImageUrl": "https://m.media-amazon.com/images/I/71JMT+3Z4rL._SL1500_.jpg"
+    "ImageUrl": "https://m.media-amazon.com/images/I/81LDEgi0awL._AC_SL1500_.jpg"
 },
 {
     "Brand": "Rega",
@@ -17,7 +17,7 @@
     "DriveMethod": "Belt Drive",
     "Speeds": "33 1/3, 45 RPM",
     "Features": "RB330 Tonearm, Elys2 Cartridge, Acrylic Platter",
-    "ImageUrl": "https://m.media-amazon.com/images/I/91oi2yHb3LL._SL1500_.jpg"
+    "ImageUrl": "https://m.media-amazon.com/images/I/51ZmMqu7kbL._AC_SL1500_.jpg"
 },
 {
     "Brand": "Pro-Ject",
@@ -27,7 +27,7 @@
     "DriveMethod": "Belt Drive",
     "Speeds": "33 1/3, 45 RPM",
     "Features": "Carbon Fiber Tonearm, Ortofon 2M Red Cartridge",
-    "ImageUrl": "https://m.media-amazon.com/images/I/71xn9eWnLpL._SL1500_.jpg"
+    "ImageUrl": "https://m.media-amazon.com/images/I/61ZgARmDbxL._AC_SL1500_.jpg"
 },
 {
     "Brand": "Sony",
@@ -37,7 +37,7 @@
     "DriveMethod": "Direct Drive",
     "Speeds": "33 1/3, 45 RPM",
     "Features": "USB Output, High-Resolution Recording, Built-in Phono Equalizer",
-    "ImageUrl": "https://m.media-amazon.com/images/I/71iBoZG+0RL._SL1500_.jpg"
+    "ImageUrl": "https://m.media-amazon.com/images/I/51vGa0Xcn0L._AC_SL1200_.jpg"
 },
 {
     "Brand": "Crosley",
@@ -47,7 +47,7 @@
     "DriveMethod": "Direct Drive",
     "Speeds": "33 1/3, 45, 78 RPM",
     "Features": "S-Shaped Tonearm, Adjustable Counterweight",
-    "ImageUrl": "https://m.media-amazon.com/images/I/71NBBQf8KmL._SL1500_.jpg"
+    "ImageUrl": "https://m.media-amazon.com/images/I/812dDjm2dHL._AC_SL1500_.jpg"
 },
 {
     "Brand": "Technics",
@@ -57,7 +57,7 @@
     "DriveMethod": "Direct Drive",
     "Speeds": "33 1/3, 45 RPM",
     "Features": "High Torque Motor, Pitch Control, Die-Cast Aluminum Platter",
-    "ImageUrl": "https://m.media-amazon.com/images/I/71gF6Msn6RL._SL1500_.jpg"
+    "ImageUrl": "https://m.media-amazon.com/images/I/61jO5sFJR5L._AC_SL1500_.jpg"
 },
 {
     "Brand": "U-Turn Audio",
@@ -67,7 +67,7 @@
     "DriveMethod": "Belt Drive",
     "Speeds": "33 1/3, 45 RPM",
     "Features": "Precision Tonearm, Acrylic Platter",
-    "ImageUrl": "https://m.media-amazon.com/images/I/71S3FLbVZoL._SL1500_.jpg"
+    "ImageUrl": "https://m.media-amazon.com/images/I/41xEt-KRF5L._AC_SX450_.jpg"
 },
 {
     "Brand": "Pioneer",
@@ -77,7 +77,7 @@
     "DriveMethod": "Direct Drive",
     "Speeds": "33 1/3, 45 RPM",
     "Features": "High Torque Motor, Tempo Control, Die-Cast Chassis",
-    "ImageUrl": "https://m.media-amazon.com/images/I/71IenX0cz9L._SL1500_.jpg"
+    "ImageUrl": "https://m.media-amazon.com/images/I/81D7ggCSwBL._AC_SL1500_.jpg"
 },
 {
     "Brand": "Denon",
@@ -87,7 +87,7 @@
     "DriveMethod": "Belt Drive",
     "Speeds": "33 1/3, 45 RPM",
     "Features": "Built-in Phono Equalizer, Moving Magnet Cartridge",
-    "ImageUrl": "https://m.media-amazon.com/images/I/61F2o63W8xL._SL1500_.jpg"
+    "ImageUrl": "https://m.media-amazon.com/images/I/81bUWZlDPwL._AC_SL1500_.jpg"
 },
 {
     "Brand": "Thorens",
@@ -97,5 +97,5 @@
     "DriveMethod": "Belt Drive",
     "Speeds": "33 1/3, 45 RPM",
     "Features": "Auto-Start, Anti-Skate Mechanism",
-    "ImageUrl": "https://m.media-amazon.com/images/I/71Gh7Vc9u5L._SL1500_.jpg"
+    "ImageUrl": "https://m.media-amazon.com/images/I/71gVnTGZtHL._AC_SL1500_.jpg"
 }]

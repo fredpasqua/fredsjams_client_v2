@@ -1,13 +1,26 @@
 import "./GearReviewsPage.css";
-import reviewHero from "../../assets/ReviewsHero.jpg";
+import GearReview from "../../Components/GearReviewsComp/GearReview.jsx";
+import data from "../../assets/gearData.json";
 function GearReviews() {
   return (
     <>
-      <div className="grid-container">
-        <div className="grid-item">
-          <h1>Coming Soon</h1>
-          <img src={reviewHero} alt="Gear Reviews Hero" />
-        </div>
+      <div>
+        <h1>Gear Reviews: Turntables, Speakers, Stylus, Furniture etc...</h1>
+        {data.map((item) => (
+          <GearReview
+            key={item.Model}
+            title={item.Brand + " " + item.Model}
+            description={`
+          This area is for the review by a gear reviewer.  You can submit your own review`}
+            releaseYear={item.ReleaseYear}
+            type={item.Type}
+            driveMethod={item.DriveMethoed}
+            speeds={item.Speeds}
+            features={item.Features}
+            image={item.ImageUrl}
+            imageAlt={"Image of " + item.Brand + " " + item.Model}
+          />
+        ))}
       </div>
     </>
   );

@@ -3,7 +3,7 @@ import data from "../../assets/data.json";
 import "./MusicReviews.css";
 import { useLayoutEffect } from "react";
 
-function Reviews() {
+function MusicReviews() {
   useLayoutEffect(() => {
     window.scrollTo(0, 0);
   });
@@ -32,4 +32,4 @@ function Reviews() {
   );
 }
 
-export default Reviews;
+export default MusicReviews;
