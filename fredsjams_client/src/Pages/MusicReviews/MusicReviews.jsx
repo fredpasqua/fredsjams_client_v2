@@ -1,8 +1,12 @@
 import MusicReview from "../../Components/MusicReviewsComp/MusicReview";
 import data from "../../assets/data.json";
 import "./MusicReviews.css";
+import { useLayoutEffect } from "react";
 
 function Reviews() {
+  useLayoutEffect(() => {
+    window.scrollTo(0, 0);
+  });
   return (
     <>
       <div>
