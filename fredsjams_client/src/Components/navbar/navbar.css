@@ -1,7 +1,10 @@
 /* Modify the background color */
          
-
-.logo img {
+.navOpacity {
+  background-color: black;
+  opacity: .9;
+}
+.logo{
     height: 45px;
     
 }

@@ -5,10 +5,16 @@ import fredsjams from "../../assets/fredsjams.png";
 import "./navbar.css";
 function Navigation() {
   return (
-    <Navbar collapseOnSelect data-bs-theme="dark" expand="lg">
+    <Navbar
+      collapseOnSelect
+      data-bs-theme="dark"
+      expand="lg"
+      sticky="top"
+      className="navOpacity"
+    >
       <Navbar.Brand>
-        <Link to="/fredsjams_client_v2/" className="logo">
-          <img src={fredsjams} alt="logo"></img>
+        <Link to="/">
+          <img className="logo" src={fredsjams} alt="logo"></img>
         </Link>
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
