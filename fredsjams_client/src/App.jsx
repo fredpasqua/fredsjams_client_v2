@@ -5,7 +5,7 @@ import Footer from "./Components/footer/footer.jsx";
 import Navigation from "./Components/navbar/navbar.jsx";
 import MainPage from "./Components/mainSelectors/MainPage.jsx";
 import MusicReviews from "./Pages/MusicReviews/MusicReviews.jsx";
-import GearReviews from "./Pages/gearReviews/GearReviews.jsx";
+import GearReviews from "./Pages/gearReviews/GearReviewsPage.jsx";
 import Notes from "./Pages/Notes/Notes.jsx";
 import News from "./Pages/News/News.jsx";
 import About from "./Pages/About/About.jsx";

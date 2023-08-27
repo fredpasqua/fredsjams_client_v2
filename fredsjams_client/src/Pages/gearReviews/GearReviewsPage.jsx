@@ -1,4 +1,4 @@
-import "./GearReviews.css";
+import "./GearReviewsPage.css";
 import reviewHero from "../../assets/ReviewsHero.jpg";
 function GearReviews() {
   return (
