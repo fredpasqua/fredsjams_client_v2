@@ -1,7 +1,11 @@
 import "./GearReviewsPage.css";
 import GearReview from "../../Components/GearReviewsComp/GearReview.jsx";
 import data from "../../assets/gearData.json";
+import { useLayoutEffect } from "react";
 function GearReviews() {
+  useLayoutEffect(() => {
+    window.scrollTo(0, 0);
+  });
   return (
     <>
       <div>
