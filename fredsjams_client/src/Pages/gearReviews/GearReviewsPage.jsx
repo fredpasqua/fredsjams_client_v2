@@ -14,7 +14,7 @@ function GearReviews() {
           This area is for the review by a gear reviewer.  You can submit your own review`}
             releaseYear={item.ReleaseYear}
             type={item.Type}
-            driveMethod={item.DriveMethoed}
+            driveMethod={item.DriveMethod}
             speeds={item.Speeds}
             features={item.Features}
             image={item.ImageUrl}
