@@ -7,6 +7,12 @@
   margin-left: auto;
   margin-right: auto;
 }
+.grid-item {
+  margin: 10px;
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+}
 .grid-item img {
   height: 300px;
   border-radius: 10%;
@@ -16,9 +22,6 @@
   transition: 250ms;
   opacity: 1;
 }
-.grid-item {
-  margin: 10px;
-  height: 300px;
-  width: 300px;
-  border-radius: 10px;
-}
+
+
+
