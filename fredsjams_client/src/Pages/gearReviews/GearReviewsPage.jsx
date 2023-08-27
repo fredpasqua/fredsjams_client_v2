@@ -8,7 +8,7 @@ function GearReviews() {
   });
   return (
     <>
-      <div>
+      <div className="gearReview">
         <h1>Turntables, Speakers, and More...</h1>
         {data.map((item) => (
           <GearReview
