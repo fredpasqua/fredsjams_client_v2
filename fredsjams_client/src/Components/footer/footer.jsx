@@ -1,4 +1,5 @@
 import "./footer.css";
+import { Link } from "react-router-dom";
 function Footer() {
   return (
     <footer className="footer">
@@ -12,11 +13,13 @@ function Footer() {
       </div>
       <ul className="list-inline">
         <li className="list-inline-item">
-          <a href="#">Home</a>
+          <Link to="/fredsjams_client_v2/" className="logo">
+            Home
+          </Link>
         </li>
 
         <li className="list-inline-item">
-          <a href="#">About</a>
+          <Link to="/About">About</Link>
         </li>
       </ul>
       <p className="copyright">FredsJams © 2021</p>
