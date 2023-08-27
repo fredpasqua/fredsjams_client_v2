@@ -9,4 +9,8 @@ p, ul, li, h2, h3{
   color: rgb(227, 227, 227) !important;
 }
 
+h1, h2 {
+  margin: 10px !important;
+}
+
 

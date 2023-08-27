@@ -4,8 +4,13 @@ function Notes() {
   return (
     <>
       {" "}
-      <p>Coming Soon</p>
-      <img src={notes} alt="notes image" />
+      <div className="grid-container">
+        <div className="grid-item">
+          {" "}
+          <img src={notes} alt="notes image" />
+        </div>
+      </div>
+      <h1>Coming Soon</h1>
     </>
   );
 }
