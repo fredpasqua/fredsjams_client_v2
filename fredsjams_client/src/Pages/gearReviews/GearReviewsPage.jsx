@@ -9,7 +9,7 @@ function GearReviews() {
   return (
     <>
       <div>
-        <h1>Gear Reviews: Turntables, Speakers, Stylus, Furniture etc...</h1>
+        <h1>Turntables, Speakers, and More...</h1>
         {data.map((item) => (
           <GearReview
             key={item.Model}

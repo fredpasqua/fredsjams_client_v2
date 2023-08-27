@@ -10,7 +10,7 @@ function MusicReviews() {
   return (
     <>
       <div>
-        <h1>Music Reviews, LPs, CDs, Streaming and More...</h1>
+        <h1>LPs, CDs, Streaming and More...</h1>
         {data.map((item) => (
           <MusicReview
             key={item.Album}

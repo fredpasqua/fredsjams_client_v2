@@ -1,4 +1,5 @@
 import "./MainPage.css";
+
 import reviewHero from "../../assets/ReviewsHero.jpg";
 import musicReviewsHero from "../../assets/MusicReviewsHero.jpg";
 import newsHero from "../../assets/NewsHero.jpg";
