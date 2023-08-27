@@ -13,7 +13,7 @@ function Navigation() {
       className="navOpacity"
     >
       <Navbar.Brand>
-        <Link to="/">
+        <Link to="/fredsjams_client_v2/">
           <img className="logo" src={fredsjams} alt="logo"></img>
         </Link>
       </Navbar.Brand>
