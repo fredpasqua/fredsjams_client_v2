@@ -1,0 +1,101 @@
+[
+{
+    "Brand": "Audio-Technica",
+    "Model": "AT-LP120XUSB",
+    "ReleaseYear": 2019,
+    "Type": "Direct-Drive Turntable",
+    "DriveMethod": "Direct Drive",
+    "Speeds": "33 1/3, 45, 78 RPM",
+    "Features": "USB Output, Built-in Preamp, High-Torque Motor",
+    "ImageUrl": "https://m.media-amazon.com/images/I/71JMT+3Z4rL._SL1500_.jpg"
+},
+{
+    "Brand": "Rega",
+    "Model": "Planar 3",
+    "ReleaseYear": 2016,
+    "Type": "Belt-Drive Turntable",
+    "DriveMethod": "Belt Drive",
+    "Speeds": "33 1/3, 45 RPM",
+    "Features": "RB330 Tonearm, Elys2 Cartridge, Acrylic Platter",
+    "ImageUrl": "https://m.media-amazon.com/images/I/91oi2yHb3LL._SL1500_.jpg"
+},
+{
+    "Brand": "Pro-Ject",
+    "Model": "Debut Carbon DC",
+    "ReleaseYear": 2012,
+    "Type": "Belt-Drive Turntable",
+    "DriveMethod": "Belt Drive",
+    "Speeds": "33 1/3, 45 RPM",
+    "Features": "Carbon Fiber Tonearm, Ortofon 2M Red Cartridge",
+    "ImageUrl": "https://m.media-amazon.com/images/I/71xn9eWnLpL._SL1500_.jpg"
+},
+{
+    "Brand": "Sony",
+    "Model": "PS-HX500",
+    "ReleaseYear": 2016,
+    "Type": "Direct-Drive Turntable",
+    "DriveMethod": "Direct Drive",
+    "Speeds": "33 1/3, 45 RPM",
+    "Features": "USB Output, High-Resolution Recording, Built-in Phono Equalizer",
+    "ImageUrl": "https://m.media-amazon.com/images/I/71iBoZG+0RL._SL1500_.jpg"
+},
+{
+    "Brand": "Crosley",
+    "Model": "C200A-BK",
+    "ReleaseYear": 2015,
+    "Type": "Direct-Drive Turntable",
+    "DriveMethod": "Direct Drive",
+    "Speeds": "33 1/3, 45, 78 RPM",
+    "Features": "S-Shaped Tonearm, Adjustable Counterweight",
+    "ImageUrl": "https://m.media-amazon.com/images/I/71NBBQf8KmL._SL1500_.jpg"
+},
+{
+    "Brand": "Technics",
+    "Model": "SL-1200MK7",
+    "ReleaseYear": 2019,
+    "Type": "Direct-Drive Turntable",
+    "DriveMethod": "Direct Drive",
+    "Speeds": "33 1/3, 45 RPM",
+    "Features": "High Torque Motor, Pitch Control, Die-Cast Aluminum Platter",
+    "ImageUrl": "https://m.media-amazon.com/images/I/71gF6Msn6RL._SL1500_.jpg"
+},
+{
+    "Brand": "U-Turn Audio",
+    "Model": "Orbit Plus",
+    "ReleaseYear": 2014,
+    "Type": "Belt-Drive Turntable",
+    "DriveMethod": "Belt Drive",
+    "Speeds": "33 1/3, 45 RPM",
+    "Features": "Precision Tonearm, Acrylic Platter",
+    "ImageUrl": "https://m.media-amazon.com/images/I/71S3FLbVZoL._SL1500_.jpg"
+},
+{
+    "Brand": "Pioneer",
+    "Model": "PLX-1000",
+    "ReleaseYear": 2014,
+    "Type": "Direct-Drive Turntable",
+    "DriveMethod": "Direct Drive",
+    "Speeds": "33 1/3, 45 RPM",
+    "Features": "High Torque Motor, Tempo Control, Die-Cast Chassis",
+    "ImageUrl": "https://m.media-amazon.com/images/I/71IenX0cz9L._SL1500_.jpg"
+},
+{
+    "Brand": "Denon",
+    "Model": "DP-300F",
+    "ReleaseYear": 2010,
+    "Type": "Fully Automatic Turntable",
+    "DriveMethod": "Belt Drive",
+    "Speeds": "33 1/3, 45 RPM",
+    "Features": "Built-in Phono Equalizer, Moving Magnet Cartridge",
+    "ImageUrl": "https://m.media-amazon.com/images/I/61F2o63W8xL._SL1500_.jpg"
+},
+{
+    "Brand": "Thorens",
+    "Model": "TD 170-1",
+    "ReleaseYear": 2012,
+    "Type": "Belt-Drive Turntable",
+    "DriveMethod": "Belt Drive",
+    "Speeds": "33 1/3, 45 RPM",
+    "Features": "Auto-Start, Anti-Skate Mechanism",
+    "ImageUrl": "https://m.media-amazon.com/images/I/71Gh7Vc9u5L._SL1500_.jpg"
+}]
