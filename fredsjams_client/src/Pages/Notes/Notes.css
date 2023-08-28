@@ -1,2 +1,35 @@
+.headerImageContainer {
+    display: flex;
+    flex-direction: column;
+    background-color: #ec9200;
+    width: 100vw;
+    align-items: center;
 
 
+}
+.imageContainer {
+    width: 500px;
+    height: fit-content;
+
+}
+.carousel {
+    display: inline-block;
+}
+
+
+.sliderContainer {
+    background-color: #ec9200;
+    height: 200px;
+width: 400px;
+    
+    
+}
+
+.titleOne h1 {
+    font-size:x-large ;
+    padding: 10px;  
+    margin: 20px;
+}
+.titleOne h2 {
+    font-size: large;
+}
