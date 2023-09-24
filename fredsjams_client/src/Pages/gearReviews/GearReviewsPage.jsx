@@ -39,7 +39,7 @@ function GearReviews() {
     <>
       <div className="gearReview">
         <h1>Turntables, Speakers, and More...</h1>
-        <div>
+        <div className="search-container">
           <input
             type="text"
             placeholder="Search articles"
@@ -55,6 +55,10 @@ function GearReviews() {
           >
             Clear Search
           </button>
+          <p className="article-count">
+            viewing {filteredArticles.length} reviews from {articles.length}{" "}
+            total searched.
+          </p>
         </div>
 
         {filteredArticles.map((item) => (
