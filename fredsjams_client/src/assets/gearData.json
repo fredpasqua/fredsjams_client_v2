@@ -7,7 +7,8 @@
     "DriveMethod": "Direct Drive",
     "Speeds": "33 1/3, 45, 78 RPM",
     "Features": "USB Output, Built-in Preamp, High-Torque Motor",
-    "ImageUrl": "https://m.media-amazon.com/images/I/81LDEgi0awL._AC_SL1500_.jpg"
+    "ImageUrl": "https://m.media-amazon.com/images/I/81LDEgi0awL._AC_SL1500_.jpg", 
+    "Content": "Audio-Technica's AT-LP120XUSB is a standout example of a direct-drive turntable. Released in 2019, it offers versatile playback with speeds of 33 1/3, 45, and 78 RPM. Notable features include a USB output for digitization, a built-in preamp, and a high-torque motor. Its sleek design is a nod to both tradition and modernity."
 },
 {
     "Brand": "Rega",
@@ -17,7 +18,8 @@
     "DriveMethod": "Belt Drive",
     "Speeds": "33 1/3, 45 RPM",
     "Features": "RB330 Tonearm, Elys2 Cartridge, Acrylic Platter",
-    "ImageUrl": "https://m.media-amazon.com/images/I/51ZmMqu7kbL._AC_SL1500_.jpg"
+    "ImageUrl": "https://m.media-amazon.com/images/I/51ZmMqu7kbL._AC_SL1500_.jpg", 
+    "Content": "Rega's Planar 3, introduced in 2016, is a belt-drive turntable renowned for its precision. It spins at 33 1/3 and 45 RPM, showcasing the RB330 tonearm, Elys2 cartridge, and an acrylic platter. Its minimalist elegance and audio prowess have made it a favorite among audiophiles."
 },
 {
     "Brand": "Pro-Ject",
@@ -27,7 +29,8 @@
     "DriveMethod": "Belt Drive",
     "Speeds": "33 1/3, 45 RPM",
     "Features": "Carbon Fiber Tonearm, Ortofon 2M Red Cartridge",
-    "ImageUrl": "https://m.media-amazon.com/images/I/61ZgARmDbxL._AC_SL1500_.jpg"
+    "ImageUrl": "https://m.media-amazon.com/images/I/61ZgARmDbxL._AC_SL1500_.jpg", 
+    "Content": "The Pro-Ject Debut Carbon DC, from 2012, is another belt-drive masterpiece. It boasts a carbon fiber tonearm and the Ortofon 2M Red cartridge, ensuring exceptional sound reproduction. This turntable's precision and craftsmanship make it a standout in its class."
 },
 {
     "Brand": "Sony",
@@ -37,7 +40,8 @@
     "DriveMethod": "Direct Drive",
     "Speeds": "33 1/3, 45 RPM",
     "Features": "USB Output, High-Resolution Recording, Built-in Phono Equalizer",
-    "ImageUrl": "https://m.media-amazon.com/images/I/51vGa0Xcn0L._AC_SL1200_.jpg"
+    "ImageUrl": "https://m.media-amazon.com/images/I/51vGa0Xcn0L._AC_SL1200_.jpg", 
+    "Content": "Sony's PS-HX500, released in 2016, is a direct-drive turntable with a focus on high-resolution recording. It spins at 33 1/3 and 45 RPM and features a built-in phono equalizer for convenience. Its USB output allows for easy digitization, making it a versatile choice for modern audiophiles."
 },
 {
     "Brand": "Crosley",
@@ -47,7 +51,8 @@
     "DriveMethod": "Direct Drive",
     "Speeds": "33 1/3, 45, 78 RPM",
     "Features": "S-Shaped Tonearm, Adjustable Counterweight",
-    "ImageUrl": "https://m.media-amazon.com/images/I/812dDjm2dHL._AC_SL1500_.jpg"
+    "ImageUrl": "https://m.media-amazon.com/images/I/812dDjm2dHL._AC_SL1500_.jpg", 
+    "Content": "Crosley's C200A-BK, launched in 2015, is a direct-drive turntable with a unique S-shaped tonearm and adjustable counterweight. It supports speeds of 33 1/3, 45, and 78 RPM. This turntable combines affordability with performance, making it accessible to a wide range of vinyl enthusiasts."
 },
 {
     "Brand": "Technics",
@@ -57,7 +62,8 @@
     "DriveMethod": "Direct Drive",
     "Speeds": "33 1/3, 45 RPM",
     "Features": "High Torque Motor, Pitch Control, Die-Cast Aluminum Platter",
-    "ImageUrl": "https://m.media-amazon.com/images/I/61jO5sFJR5L._AC_SL1500_.jpg"
+    "ImageUrl": "https://m.media-amazon.com/images/I/61jO5sFJR5L._AC_SL1500_.jpg", 
+    "Content": "Technics' SL-1200MK7, making its return in 2019, is a direct-drive turntable with a legacy of DJ excellence. It features a high-torque motor, pitch control, and a die-cast aluminum platter. The iconic design and precise engineering have solidified its status as a DJ and audiophile favorite."
 },
 {
     "Brand": "U-Turn Audio",
@@ -67,7 +73,8 @@
     "DriveMethod": "Belt Drive",
     "Speeds": "33 1/3, 45 RPM",
     "Features": "Precision Tonearm, Acrylic Platter",
-    "ImageUrl": "https://m.media-amazon.com/images/I/41xEt-KRF5L._AC_SX450_.jpg"
+    "ImageUrl": "https://m.media-amazon.com/images/I/41xEt-KRF5L._AC_SX450_.jpg", 
+    "Content": "The U-Turn Audio Orbit Plus, introduced in 2014, is a belt-drive turntable known for its precision tonearm and acrylic platter. It spins at 33 1/3 and 45 RPM, delivering remarkable sound quality. Its simplistic design hides a commitment to audio excellence."
 },
 {
     "Brand": "Pioneer",
@@ -77,7 +84,8 @@
     "DriveMethod": "Direct Drive",
     "Speeds": "33 1/3, 45 RPM",
     "Features": "High Torque Motor, Tempo Control, Die-Cast Chassis",
-    "ImageUrl": "https://m.media-amazon.com/images/I/81D7ggCSwBL._AC_SL1500_.jpg"
+    "ImageUrl": "https://m.media-amazon.com/images/I/81D7ggCSwBL._AC_SL1500_.jpg", 
+    "Content": "Pioneer's PLX-1000, from 2014, is a direct-drive turntable with a high-torque motor, tempo control, and a die-cast chassis. It's designed for the most discerning DJs and audiophiles, offering precision and reliability."
 },
 {
     "Brand": "Denon",
@@ -87,7 +95,8 @@
     "DriveMethod": "Belt Drive",
     "Speeds": "33 1/3, 45 RPM",
     "Features": "Built-in Phono Equalizer, Moving Magnet Cartridge",
-    "ImageUrl": "https://m.media-amazon.com/images/I/81bUWZlDPwL._AC_SL1500_.jpg"
+    "ImageUrl": "https://m.media-amazon.com/images/I/81bUWZlDPwL._AC_SL1500_.jpg", 
+    "Content": "Denon's DP-300F, released in 2010, is a fully automatic belt-drive turntable with a built-in phono equalizer and a moving magnet cartridge. Its user-friendly features make it an excellent choice for those new to vinyl."
 },
 {
     "Brand": "Thorens",
@@ -97,5 +106,6 @@
     "DriveMethod": "Belt Drive",
     "Speeds": "33 1/3, 45 RPM",
     "Features": "Auto-Start, Anti-Skate Mechanism",
-    "ImageUrl": "https://m.media-amazon.com/images/I/71gVnTGZtHL._AC_SL1500_.jpg"
+    "ImageUrl": "https://m.media-amazon.com/images/I/71gVnTGZtHL._AC_SL1500_.jpg", 
+    "Content": "The Thorens TD 170-1, introduced in 2012, is a belt-drive turntable with auto-start and an anti-skate mechanism. It's designed for hassle-free playback and precision."
 }]

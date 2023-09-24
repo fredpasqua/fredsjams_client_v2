@@ -29,5 +29,9 @@
   width: 300px;
   border-radius: 10px;
 }
+.searchInput {
+  padding: 5px;
+  margin: 10px;
+}
 
 
