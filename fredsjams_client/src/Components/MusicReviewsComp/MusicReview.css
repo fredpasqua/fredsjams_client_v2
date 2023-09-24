@@ -13,10 +13,11 @@
     max-width: 800px;
     min-height: 500px; 
 }
-.image-container {
+.music-review-top-container {
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    background-color: black !important;
 }
 
 .image {

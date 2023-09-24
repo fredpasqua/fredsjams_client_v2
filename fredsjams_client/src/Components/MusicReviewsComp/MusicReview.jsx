@@ -16,7 +16,7 @@ function MusicReview(props) {
     <div>
       <div className="reviewContainer">
         <h1 className="title">{Name}</h1>
-        <div className="image-container">
+        <div className="music-review-top-container">
           {" "}
           <img className="image" src={image} alt={imageAlt}></img>
           <div className="item-info-container">
