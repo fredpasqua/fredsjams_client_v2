@@ -16,7 +16,7 @@ function Navigation() {
       className="navOpacity"
     >
       <Navbar.Brand>
-        <Link to="/fredsjams_client_v2/" onClick={() => setExpanded(false)}>
+        <Link to="/" onClick={() => setExpanded(false)}>
           <img className="logo" src={fredsjams} alt="logo"></img>
         </Link>
       </Navbar.Brand>
