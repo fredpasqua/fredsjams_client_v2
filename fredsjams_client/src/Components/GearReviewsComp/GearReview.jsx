@@ -1,5 +1,5 @@
 import "./GearReviews.css";
-function MusicReview(props) {
+function GearReview(props) {
   const title = props.title;
   const shortDescription = props.description;
   const image = props.image;
@@ -17,7 +17,12 @@ function MusicReview(props) {
         <div className="product-imageinfo-container">
           <div className="image-container">
             {" "}
-            <img className="image" src={image} alt={imageAlt}></img>
+            <img
+              className="image"
+              src={image}
+              alt={imageAlt}
+              loading="lazy"
+            ></img>
           </div>
 
           <div className="item-info-container">
@@ -43,4 +48,4 @@ function MusicReview(props) {
   );
 }
 
-export default MusicReview;
+export default GearReview;
